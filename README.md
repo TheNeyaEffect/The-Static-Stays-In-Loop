@@ -93,6 +93,6 @@ Together, these mechanics demonstrate that while players feel in control, their 
                             ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 
 View the full project presentation:
-[View Class Presentation](Final Project - Aneya Ward.pdf)
+[View Class Presentation](FINALPROJECT)
 
 This project/game was started on Janurary 14th.
