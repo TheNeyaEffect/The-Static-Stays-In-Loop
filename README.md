@@ -16,6 +16,8 @@ Create continuity between playthroughs
 
 The memory overwrite mechanic alters or removes stored data after multiple runs. This directly represents the philosophical idea that identity depends on memory, and without stable memory, the sense of self becomes unreliable.
 
+
+                                    ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 2. Branching Narrative System
 
 The game is structured using conditional logic (if/else statements) to:
