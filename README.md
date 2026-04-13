@@ -4,7 +4,7 @@
 
 The Static Stays in Loop is an interactive narrative game built using HTML, CSS, and JavaScript. The purpose of the game is to explore philosophical ideas about free will, identity, and systems of control through gameplay mechanics rather than traditional explanation.
 
-                                ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
+                            ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 Core Systems & How They Work
 1. Memory System (localStorage)
 
@@ -17,7 +17,7 @@ Create continuity between playthroughs
 The memory overwrite mechanic alters or removes stored data after multiple runs. This directly represents the philosophical idea that identity depends on memory, and without stable memory, the sense of self becomes unreliable.
 
 
-                                ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
+                            ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 2. Branching Narrative System
 
 The game is structured using conditional logic (if/else statements) to:
@@ -29,7 +29,7 @@ Generate multiple endings
 Although the game appears to offer freedom through branching paths, all outcomes are pre-coded. This reflects the idea that choice exists within constraints, supporting the argument that free will is limited.
 
 
-                                 ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
+                              ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 3. Approval System
 
 A variable tracks player behavior and assigns an “approval” rating based on decisions. This system:
@@ -41,7 +41,7 @@ Encourages players to choose “acceptable” options
 This represents how external systems influence decision-making, connecting to ethical questions about autonomy under pressure.
 
 
-                                ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
+                            ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 4. Surveillance System
 
 Visual elements such as “REC — OBSERVER ACTIVE” are triggered through JavaScript and CSS styling. These elements:
@@ -53,7 +53,7 @@ Increase psychological pressure
 This system supports the idea that behavior changes under observation, limiting true independence in decision-making.
 
 
-                                ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
+                            ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 5. Loop Mechanic
 
 The game tracks the number of playthroughs using stored data. Each loop:
@@ -65,7 +65,7 @@ Prevents a true “escape” ending
 This mechanic represents determinism, showing that even with multiple choices, the player remains within a controlled system.
 
 
-                                ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
+                            ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 Aesthetic Design
 
 The game uses CSS and JavaScript to create:
@@ -77,7 +77,7 @@ Flickering animations
 These elements reflect instability in memory and perception, reinforcing the game’s metaphysical themes through visual experience.
 
 
-                               ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
+                            ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 Philosophical Connection
 
 Each system in the game is intentionally designed to represent a philosophical idea:
