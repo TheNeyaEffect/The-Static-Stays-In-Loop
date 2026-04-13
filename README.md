@@ -1,9 +1,5 @@
 # The-Static-Stays-In-Loop
 
-📄 README / Technical Explanation
-
-The Static Stays in Loop is an interactive narrative game built using HTML, CSS, and JavaScript. The purpose of the game is to explore philosophical ideas about free will, identity, and systems of control through gameplay mechanics rather than traditional explanation.
-
                             ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 Core Systems & How They Work
 1. Memory System (localStorage)
