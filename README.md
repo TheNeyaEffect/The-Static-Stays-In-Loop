@@ -6,9 +6,9 @@ Core Systems & How They Work
 
 The game uses JavaScript’s localStorage to store player choices across sessions. This allows the game to:
 
-Track previous decisions
-Modify dialogue based on past actions
-Create continuity between playthroughs
+Track previous decisions\
+Modify dialogue based on past actions\
+Create continuity between playthroughs\
 
 The memory overwrite mechanic alters or removes stored data after multiple runs. This directly represents the philosophical idea that identity depends on memory, and without stable memory, the sense of self becomes unreliable.
 
