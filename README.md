@@ -78,9 +78,9 @@ Philosophical Connection
 
 Each system in the game is intentionally designed to represent a philosophical idea:
 
-Memory system → identity is constructed and unstable
-Approval system → ethics under external pressure
-Loop structure → determinism and lack of escape
+Memory system → identity is constructed and unstable\
+Approval system → ethics under external pressure\
+Loop structure → determinism and lack of escape\
 Branching paths → illusion of choice
 
 Together, these mechanics demonstrate that while players feel in control, their actions are shaped and limited by the system itself.
