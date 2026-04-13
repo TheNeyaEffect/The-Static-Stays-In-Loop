@@ -29,7 +29,7 @@ Generate multiple endings
 Although the game appears to offer freedom through branching paths, all outcomes are pre-coded. This reflects the idea that choice exists within constraints, supporting the argument that free will is limited.
 
 
-                                ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
+                                 ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 3. Approval System
 
 A variable tracks player behavior and assigns an “approval” rating based on decisions. This system:
@@ -77,7 +77,7 @@ Flickering animations
 These elements reflect instability in memory and perception, reinforcing the game’s metaphysical themes through visual experience.
 
 
-                              ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
+                               ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 Philosophical Connection
 
 Each system in the game is intentionally designed to represent a philosophical idea:
