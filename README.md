@@ -1,5 +1,10 @@
 # The-Static-Stays-In-Loop
 
+An interactive narrative game that explores free will, identity, and systems of control through gameplay mechanics.
+
+🔗 Play the game: https://tssiloop.neocities.org
+
+
                             ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 Core Systems & How They Work
 1. Memory System (localStorage)
