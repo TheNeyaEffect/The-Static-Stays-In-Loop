@@ -28,6 +28,8 @@ Generate multiple endings
 
 Although the game appears to offer freedom through branching paths, all outcomes are pre-coded. This reflects the idea that choice exists within constraints, supporting the argument that free will is limited.
 
+
+                                    ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 3. Approval System
 
 A variable tracks player behavior and assigns an “approval” rating based on decisions. This system:
@@ -38,6 +40,8 @@ Encourages players to choose “acceptable” options
 
 This represents how external systems influence decision-making, connecting to ethical questions about autonomy under pressure.
 
+
+                                   ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 4. Surveillance System
 
 Visual elements such as “REC — OBSERVER ACTIVE” are triggered through JavaScript and CSS styling. These elements:
@@ -48,6 +52,8 @@ Increase psychological pressure
 
 This system supports the idea that behavior changes under observation, limiting true independence in decision-making.
 
+
+                                   ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 5. Loop Mechanic
 
 The game tracks the number of playthroughs using stored data. Each loop:
@@ -58,6 +64,8 @@ Prevents a true “escape” ending
 
 This mechanic represents determinism, showing that even with multiple choices, the player remains within a controlled system.
 
+
+                                   ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 Aesthetic Design
 
 The game uses CSS and JavaScript to create:
@@ -68,6 +76,8 @@ Flickering animations
 
 These elements reflect instability in memory and perception, reinforcing the game’s metaphysical themes through visual experience.
 
+
+                                  ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 Philosophical Connection
 
 Each system in the game is intentionally designed to represent a philosophical idea:
