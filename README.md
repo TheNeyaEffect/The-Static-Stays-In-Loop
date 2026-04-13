@@ -18,8 +18,8 @@ The memory overwrite mechanic alters or removes stored data after multiple runs.
 
 The game is structured using conditional logic (if/else statements) to:
 
-Control scene transitions
-Present different dialogue options
+Control scene transitions\
+Present different dialogue options\
 Generate multiple endings
 
 Although the game appears to offer freedom through branching paths, all outcomes are pre-coded. This reflects the idea that choice exists within constraints, supporting the argument that free will is limited.
@@ -30,8 +30,8 @@ Although the game appears to offer freedom through branching paths, all outcomes
 
 A variable tracks player behavior and assigns an “approval” rating based on decisions. This system:
 
-Updates dynamically during gameplay
-Influences available dialogue or outcomes
+Updates dynamically during gameplay\
+Influences available dialogue or outcomes\
 Encourages players to choose “acceptable” options
 
 This represents how external systems influence decision-making, connecting to ethical questions about autonomy under pressure.
@@ -42,8 +42,8 @@ This represents how external systems influence decision-making, connecting to et
 
 Visual elements such as “REC — OBSERVER ACTIVE” are triggered through JavaScript and CSS styling. These elements:
 
-Appear during key decision points
-Reinforce the idea that the player is being watched
+Appear during key decision points\
+Reinforce the idea that the player is being watched\
 Increase psychological pressure
 
 This system supports the idea that behavior changes under observation, limiting true independence in decision-making.
@@ -54,8 +54,8 @@ This system supports the idea that behavior changes under observation, limiting 
 
 The game tracks the number of playthroughs using stored data. Each loop:
 
-Alters dialogue or outcomes
-Reinforces repetition
+Alters dialogue or outcomes\
+Reinforces repetition\
 Prevents a true “escape” ending
 
 This mechanic represents determinism, showing that even with multiple choices, the player remains within a controlled system.
@@ -66,8 +66,8 @@ Aesthetic Design
 
 The game uses CSS and JavaScript to create:
 
-Glitch effects
-Text distortion
+Glitch effects\
+Text distortion\
 Flickering animations
 
 These elements reflect instability in memory and perception, reinforcing the game’s metaphysical themes through visual experience.
