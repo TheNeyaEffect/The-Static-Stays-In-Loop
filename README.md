@@ -84,3 +84,7 @@ Loop structure → determinism and lack of escape\
 Branching paths → illusion of choice
 
 Together, these mechanics demonstrate that while players feel in control, their actions are shaped and limited by the system itself.
+
+                            ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
+
+This project/game was started on Janurary 14th.
